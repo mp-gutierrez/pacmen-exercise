@@ -22,6 +22,5 @@
     <li>Adding noise to the chomps of each PacMan</li>
     <li>Make each PacMan bite continously</li>
     </ul>
-<br>
 <h2>License</h2>
-    This project is licensed under the <a href="https://github.com/mp-gutierrez/pacmen-exercise/blob/main/LICENSE> MIT License </a>.
+    This project is licensed under the <a href="https://github.com/mp-gutierrez/pacmen-exercise/blob/main/LICENSE"> MIT License</a>.
