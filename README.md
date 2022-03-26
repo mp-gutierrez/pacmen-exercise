@@ -3,7 +3,7 @@
     Bouncing PacMen Factory
 <br>
 <h2>Description</h2>
-    A generator of same-sized PacMen that moves them at random speeds and directions. 
+    This project is a generator of same-sized PacMen that can be set up to move at random speeds and directions.
 <br>
 <h2>Installation</h2>
     In order to run the program, all the files need to be downloaded into the same folder, keeping each file name and its extension intact. With the files in place, a simple drag-n-drop of the index.html file into a chromium-based browser will load the game.
@@ -18,8 +18,10 @@
     In case of requiring further assistance, you can contact me via Twitter @mpgutierrz
 <br>
 <h2>Improvements to come</h2>
-    Adding noise to the chomps of each PacMan
-    Make each PacMan bite continously
+    <ul>
+    <li>Adding noise to the chomps of each PacMan</li>
+    <li>Make each PacMan bite continously</li>
+    </ul>
 <br>
 <h2>License</h2>
     This project is licensed under the MIT License.
