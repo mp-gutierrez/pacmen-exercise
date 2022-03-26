@@ -24,4 +24,4 @@
     </ul>
 <br>
 <h2>License</h2>
-    This project is licensed under the <a href="https://github.com/mp-gutierrez/pacmen-exercise/blob/main/LICENSE> MIT License</a>.
+    This project is licensed under the <a href="https://github.com/mp-gutierrez/pacmen-exercise/blob/main/LICENSE> MIT License </a>.
